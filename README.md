@@ -1,7 +1,7 @@
 # Data As A Service
-Website to submit your dataset and have a machine learning model created and displayed with visualizations and metrics.
+Mobile and web application to submit your dataset and have a machine learning model created and displayed with visualizations and metrics.
 
-It is intended to be a data as a service site.
+It is intended to be a data as a service site for anyone interested or passionate about machine learning
   * Login in – Log In page
      * If account already exist – proceed to Dashboard page
      * Create an account if not – proceed to Profile page
@@ -17,7 +17,6 @@ It is intended to be a data as a service site.
   * Upload profile picture, upload dataset file
   * Provide notification via text message or email when modeling is done
   * Give users the option to create account via social media accounts e.g. Apple, Google, Facebook, LinkedIn
-  * Would like to implement responsive screen and mobile (Android and iOS) version if possible.
 <h3>Web Application Wireframe</h3>
 <p><img src="/project_proposal/MichaelAkinosho_Solo_Project_Data_As_A_Service_Desktop.jpg" alt="Project Web Wireframe" width="min-content" height="min-content"/></p>
 <h3>Mobile Application Wireframe</h3>

@@ -18,4 +18,5 @@ It is intended to be a data as a service site.
   * Provide notification via text message or email when modeling is done
   * Give users the option to create account via social media accounts e.g. Apple, Google, Facebook, LinkedIn
   * Would like to implement responsive screen and mobile (Android and iOS) version if possible.
-<p><img src="/MichaelAkinosho_Solo_Project_Data_As_A_Service_Desktop.jpg" alt="Project Wireframe" width="min-content" height="min-content"/></p>
+<p><img src="/MichaelAkinosho_Solo_Project_Data_As_A_Service_Desktop.jpg" alt="Project Web Wireframe" width="min-content" height="min-content"/></p>
+<p><img src="/MichaelAkinosho_Solo_Project_Data_As_A_Service_Desktop.jpg" alt="Project Mobile Wireframe" width="min-content" height="min-content"/></p>

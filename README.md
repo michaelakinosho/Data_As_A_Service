@@ -19,4 +19,5 @@ It is intended to be a data as a service site.
   * Give users the option to create account via social media accounts e.g. Apple, Google, Facebook, LinkedIn
   * Would like to implement responsive screen and mobile (Android and iOS) version if possible.
 <p><img src="/MichaelAkinosho_Solo_Project_Data_As_A_Service_Desktop.jpg" alt="Project Web Wireframe" width="min-content" height="min-content"/></p>
-<p><img src="/MichaelAkinosho_Solo_Project_Data_As_A_Service_Desktop.jpg" alt="Project Mobile Wireframe" width="min-content" height="min-content"/></p>
+<h3>Mobile Application Wireframe</h3>
+<p><img src="/MichaelAkinosho_Solo_Project_Data_As_A_Service_Mobile.jpg" alt="Project Mobile Wireframe" width="min-content" height="min-content"/></p>

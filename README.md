@@ -1,4 +1,4 @@
-# Data_As_A_Service
+# Data As A Service
 Website to submit your dataset and have a machine learning model created and displayed with visualizations and metrics.
 
 It is intended to be a data as a service site.
